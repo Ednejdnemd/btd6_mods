@@ -26,8 +26,8 @@ using MelonLoader;
 
 // Version information for an assembly consists of the following four values:
 //
-//      Major Version
-//      Minor Version
+//      Major Version 32.1.5646
+//      Minor Version32.1.5646
 //      Build Number
 //      Revision
 //
